@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Latin Modern Mono Prop';
+    src: url('../font/lmmonoprop-oblique-webfont.eot');
+    src: url('../font/lmmonoprop-oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmmonoprop-oblique-webfont.woff') format('woff'),
+         url('../font/lmmonoprop-oblique-webfont.ttf') format('truetype'),
+         url('../font/lmmonoprop-oblique-webfont.svg#latin_modern_mono_prop10Ob') format('svg');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Latin Modern Mono Prop';
+    src: url('../font/lmmonoprop-regular-webfont.eot');
+    src: url('../font/lmmonoprop-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmmonoprop-regular-webfont.woff') format('woff'),
+         url('../font/lmmonoprop-regular-webfont.ttf') format('truetype'),
+         url('../font/lmmonoprop-regular-webfont.svg#latin_modern_mono_prop10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

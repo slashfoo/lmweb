@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Latin Modern Mono Prop Light';
+    src: url('../font/lmmonoproplt-boldoblique-webfont.eot');
+    src: url('../font/lmmonoproplt-boldoblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmmonoproplt-boldoblique-webfont.woff') format('woff'),
+         url('../font/lmmonoproplt-boldoblique-webfont.ttf') format('truetype'),
+         url('../font/lmmonoproplt-boldoblique-webfont.svg#latin_modern_mono_prop_10BdOb') format('svg');
+    font-weight: bold;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Latin Modern Mono Prop Light';
+    src: url('../font/lmmonoproplt-bold-webfont.eot');
+    src: url('../font/lmmonoproplt-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmmonoproplt-bold-webfont.woff') format('woff'),
+         url('../font/lmmonoproplt-bold-webfont.ttf') format('truetype'),
+         url('../font/lmmonoproplt-bold-webfont.svg#latin_modern_mono_prop_li10Bd') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Latin Modern Mono Prop Light';
+    src: url('../font/lmmonoproplt-oblique-webfont.eot');
+    src: url('../font/lmmonoproplt-oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmmonoproplt-oblique-webfont.woff') format('woff'),
+         url('../font/lmmonoproplt-oblique-webfont.ttf') format('truetype'),
+         url('../font/lmmonoproplt-oblique-webfont.svg#latin_modern_mono_prop_li10Ob') format('svg');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Latin Modern Mono Prop Light';
+    src: url('../font/lmmonoproplt-regular-webfont.eot');
+    src: url('../font/lmmonoproplt-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmmonoproplt-regular-webfont.woff') format('woff'),
+         url('../font/lmmonoproplt-regular-webfont.ttf') format('truetype'),
+         url('../font/lmmonoproplt-regular-webfont.svg#latin_modern_mono_prop_li10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

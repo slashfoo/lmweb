@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Latin Modern Roman Slanted';
+    src: url('../font/lmromanslant-bold-webfont.eot');
+    src: url('../font/lmromanslant-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmromanslant-bold-webfont.woff') format('woff'),
+         url('../font/lmromanslant-bold-webfont.ttf') format('truetype'),
+         url('../font/lmromanslant-bold-webfont.svg#latin_modern_roman_slante10Bd') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Latin Modern Roman Slanted';
+    src: url('../font/lmromanslant-regular-webfont.eot');
+    src: url('../font/lmromanslant-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmromanslant-regular-webfont.woff') format('woff'),
+         url('../font/lmromanslant-regular-webfont.ttf') format('truetype'),
+         url('../font/lmromanslant-regular-webfont.svg#latin_modern_roman_slante10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

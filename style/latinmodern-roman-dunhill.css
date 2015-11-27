@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Latin Modern Roman Dunhill';
+    src: url('../font/lmromandunh-oblique-webfont.eot');
+    src: url('../font/lmromandunh-oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmromandunh-oblique-webfont.woff') format('woff'),
+         url('../font/lmromandunh-oblique-webfont.ttf') format('truetype'),
+         url('../font/lmromandunh-oblique-webfont.svg#latin_modern_roman_dunhil10Ob') format('svg');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Latin Modern Roman Dunhill';
+    src: url('../font/lmromandunh-regular-webfont.eot');
+    src: url('../font/lmromandunh-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmromandunh-regular-webfont.woff') format('woff'),
+         url('../font/lmromandunh-regular-webfont.ttf') format('truetype'),
+         url('../font/lmromandunh-regular-webfont.svg#latin_modern_roman_dunhil10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Latin Modern Roman Caps';
+    src: url('../font/lmromancaps-oblique-webfont.eot');
+    src: url('../font/lmromancaps-oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmromancaps-oblique-webfont.woff') format('woff'),
+         url('../font/lmromancaps-oblique-webfont.ttf') format('truetype'),
+         url('../font/lmromancaps-oblique-webfont.svg#latin_modern_roman_caps10Ob') format('svg');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Latin Modern Roman Caps';
+    src: url('../font/lmromancaps-regular-webfont.eot');
+    src: url('../font/lmromancaps-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmromancaps-regular-webfont.woff') format('woff'),
+         url('../font/lmromancaps-regular-webfont.ttf') format('truetype'),
+         url('../font/lmromancaps-regular-webfont.svg#latin_modern_roman_caps10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Latin Modern Mono Light Cond';
+    src: url('../font/lmmonoltcond-oblique-webfont.eot');
+    src: url('../font/lmmonoltcond-oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmmonoltcond-oblique-webfont.woff') format('woff'),
+         url('../font/lmmonoltcond-oblique-webfont.ttf') format('truetype'),
+         url('../font/lmmonoltcond-oblique-webfont.svg#latin_modern_mono_light_c10Ob') format('svg');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Latin Modern Mono Light Cond';
+    src: url('../font/lmmonoltcond-regular-webfont.eot');
+    src: url('../font/lmmonoltcond-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmmonoltcond-regular-webfont.woff') format('woff'),
+         url('../font/lmmonoltcond-regular-webfont.ttf') format('truetype'),
+         url('../font/lmmonoltcond-regular-webfont.svg#latin_modern_mono_light_c10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

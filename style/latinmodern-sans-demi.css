@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Latin Modern Sans Demi Cond';
+    src: url('../font/lmsansdemicond-oblique-webfont.eot');
+    src: url('../font/lmsansdemicond-oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmsansdemicond-oblique-webfont.woff') format('woff'),
+         url('../font/lmsansdemicond-oblique-webfont.ttf') format('truetype'),
+         url('../font/lmsansdemicond-oblique-webfont.svg#latin_modern_sans_demi_co10Ob') format('svg');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Latin Modern Sans Demi Cond';
+    src: url('../font/lmsansdemicond-regular-webfont.eot');
+    src: url('../font/lmsansdemicond-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmsansdemicond-regular-webfont.woff') format('woff'),
+         url('../font/lmsansdemicond-regular-webfont.ttf') format('truetype'),
+         url('../font/lmsansdemicond-regular-webfont.svg#latin_modern_sans_demi_co10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

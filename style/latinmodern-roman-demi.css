@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Latin Modern Roman Demi';
+    src: url('../font/lmromandemi-oblique-webfont.eot');
+    src: url('../font/lmromandemi-oblique-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmromandemi-oblique-webfont.woff') format('woff'),
+         url('../font/lmromandemi-oblique-webfont.ttf') format('truetype'),
+         url('../font/lmromandemi-oblique-webfont.svg#latin_modern_roman_demi10Ob') format('svg');
+    font-weight: normal;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'Latin Modern Roman Demi';
+    src: url('../font/lmromandemi-regular-webfont.eot');
+    src: url('../font/lmromandemi-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/lmromandemi-regular-webfont.woff') format('woff'),
+         url('../font/lmromandemi-regular-webfont.ttf') format('truetype'),
+         url('../font/lmromandemi-regular-webfont.svg#latin_modern_roman_demi10Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
