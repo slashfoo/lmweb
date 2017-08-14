@@ -6,14 +6,14 @@ by [GUST][1] by working on the foundation of the [Computer Modern][2] by
 Donald Knuth.
 
 ## Use
-First, you need to load the font on your webpage, you do this by using
-one or more of the `.css` files in `style/`.
+You can load the font on your webpage (you do this by using one or more of the `.css` files in `style/`).
+Or you can use the Github Pages version hosted at https://lalten.github.io/lmweb/
 
 For example, adding the following if you wanted to use the font 'Lucida
 Modern Mono'. The families are defined in those files.
 
 ```html
-<link rel="stylesheet" href="style/latinmodern-mono.css" type="text/css" charset="utf-8" />
+<link rel="stylesheet" href="https://lalten.github.io/lmweb/style/latinmodern-mono.css" type="text/css" charset="utf-8" />
 ```
 
 After doing that, you can safely use something like the following to
